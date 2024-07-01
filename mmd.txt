@@ -1,0 +1,33 @@
+$0000000000000000000000000000000000000$
+#---------------------------------------
+#---------------------------------------
+i am pEter Or mmd ryson
+
+rubika.ir/antiMMD , rubika.ir/PartyBaazi
+rubika.ir/alerter , rubika.ir/serverer
+rubika.ir/updatte , rubika.ir/spansor
+
+t.me/creator_ryson
+#---------------------------------------
+#---------------------------------------
+#_______________________________________
+#_______________________________________
+
+(Modules required for install):
+    requests
+    colorama
+    colored
+    webbrowser
+    datetime
+    pyfiglet
+    flags
+
+install on terminal:
+
+pip3 install (name)
+pip install (name)
+#_____________________________________
+#_____________________________________
+
+$0000000000000000000000000000000000000$
+    
